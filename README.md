@@ -1,5 +1,4 @@
-# Hello-World
-This repository contains ideas
+# About Me
 
 
 I am a graduate student at The University of Texas at Dallas pursing my Masters in Computer science. 
